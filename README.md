@@ -60,7 +60,7 @@ I'm a passionate developer with a strong focus on **e-commerce automation**, **w
 
         <div align="center">
 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuposeidon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuposeidon&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuposeidon&layout=compact&langs_count=7&theme=tokyonight"/>
 
         </div>
