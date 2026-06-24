@@ -88,5 +88,5 @@ I'm a passionate developer with a strong focus on **e-commerce automation**, **w
 ---
 
 <div align="center">
-<i>"The ocean doesn't apologize for its depth"</i>i>
-</div>div></i>
+<i>"The ocean doesn't apologize for its depth"</i>
+</div>
